@@ -14,7 +14,7 @@ N/A
 To start the process you will need to click on the "Generate Password" button. Then you will be prompt with a series of criteria to choose from. At the end, based on the criteria you chose, a random password will be ganerated. 
 
 ![screenshot of the web app](/screenshot.png);
-![url](https://danabelleli.github.io/random-password/);
+![Website url]("https://danabelleli.github.io/random-password/");
 
 
 ## License
